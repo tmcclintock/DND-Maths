@@ -21,6 +21,8 @@ This can be shown algebraically, but is too long
 for this comment.
 """
 
+import sys
+
 class Arithmancy(object):
     def __init__(self,phrase='',debug=False):
         self.phrase = phrase
@@ -61,6 +63,15 @@ class Arithmancy(object):
 
 #A unit test
 if __name__ == '__main__':
-    spell = 'Empowered Fireball'
-    test = Arithmancy(spell)
-    print test
+    args = sys.argv
+    if len(args) < 2:
+        print "No arguments given, testing with the spell Fireball"
+        spell = 'Fireball'
+        test = Arithmancy(spell)
+        print test
+    else:
+        spell = ""
+        for arg in args[1:]:
+            spell += str(arg)+" "
+        spell_arithmancy = Arithmancy(spell.rstrip())
+        print spell_arithmancy
