@@ -28,14 +28,17 @@ class Sacred_geometry(object):
         self.name = name
         self.level = level
         self.rolls = rolls
+        self.ops = []
         random.seed(seed)
         if not self.rolls:
             self.roll_dice(self.level)
+        for i in range(len(self.rolls)):
+            self.ops.append(operator.add)
         self.solved=self.solve()
 
     def __str__(self):
-        return "Sacred Geometry %s:\n\tSolved: %r\n\tLevel: %d\n\tRolls: %s"\
-            %(self.name,self.solved,self.level,self.rolls)
+        return "Sacred Geometry %s:\n\tSolved: %r\n\tLevel: %d\n\tRolls: %s\n\tOperations:%s"\
+            %(self.name,self.solved,self.level,self.rolls,self.ops)
 
     """
     This function rolls level number of dice
