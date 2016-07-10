@@ -37,6 +37,7 @@ class Sacred_geometry(object):
         self.solved=self.solve()
 
     def __str__(self):
+        
         return "Sacred Geometry %s:\n\tSolved: %r\n\tLevel: %d\n\tRolls: %s\n\tOperations:%s"\
             %(self.name,self.solved,self.level,self.rolls,self.ops)
 
