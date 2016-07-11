@@ -9,3 +9,6 @@ This is a script that calculates the solution to the sacred geometry problem for
 
 ## Random Fighter
 This is a small application to generate random fighters. (Pathfinder)
+
+## Stats
+This generates stat arrays for characters. This directory also includes some statistics tests on stat arrays. (General)
