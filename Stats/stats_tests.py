@@ -29,6 +29,7 @@ if calc_pb_prob_roll_three:
     print "Mean = %f\nStddev = %f"%(mu,sigma)
     n,bins,patches = plt.hist(pb_array,bins=size+1,normed=True,alpha=0.5,facecolor='g')
     y = mlab.normpdf(bins,mu,sigma)
+    plt.title("Roll three")
     plt.plot(bins,y,'r--',linewidth=2)
     plt.show()
 
@@ -42,6 +43,7 @@ if calc_pb_prob_roll_three_with_reroll:
     print "Mean = %f\nStddev = %f"%(mu,sigma)
     n,bins,patches = plt.hist(pb_array,bins=size+1,normed=True,alpha=0.5,facecolor='g')
     y = mlab.normpdf(bins,mu,sigma)
+    plt.title("Roll three with reroll")
     plt.plot(bins,y,'r--',linewidth=2)
     plt.show()
 
@@ -55,6 +57,7 @@ if calc_pb_prob_roll_four_dl:
     print "Mean = %f\nStddev = %f"%(mu,sigma)
     n,bins,patches = plt.hist(pb_array,bins=size+1,normed=True,alpha=0.5,facecolor='g')
     y = mlab.normpdf(bins,mu,sigma)
+    plt.title("Roll four with drop lowest")
     plt.plot(bins,y,'r--',linewidth=2)
     plt.show()
 
@@ -68,6 +71,7 @@ if calc_pb_prob_roll_four_dl_with_reroll:
     print "Mean = %f\nStddev = %f"%(mu,sigma)
     n,bins,patches = plt.hist(pb_array,bins=size+1,normed=True,alpha=0.5,facecolor='g')
     y = mlab.normpdf(bins,mu,sigma)
+    plt.title("Roll four with drop lowest with reroll")
     plt.plot(bins,y,'r--',linewidth=2)
     plt.show()
 

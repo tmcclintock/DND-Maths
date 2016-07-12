@@ -23,7 +23,7 @@ class Stats(object):
 
     """
     Roll three.
-    If no rerolls then the average point buy is near 5.
+    If no rerolls then the average point buy is near 4.
     If rerolls then the average point buy is near 16,
     but skewed heavily to lower numbers with a peak closer to 14.
     """
@@ -45,8 +45,8 @@ class Stats(object):
 
     """
     Roll four drop lowest.
-    If no rerolls then the average point buy is near 20,
-    with a skew to lower numbers and a peak near 19.
+    If no rerolls then the average point buy is near 19,
+    with a skew to lower numbers and a peak near 18.
     If rerolls then the average point buy is near 30,
     with a skew to lower numbers and a peak near 28.
     """
@@ -76,9 +76,10 @@ class Stats(object):
         for stat in stat_array:
             diff = stat-10 #Difference between the stat and 10
             if diff == 0:
-                sign = 1
+                sign = 0
             else:
                 sign = diff/math.fabs(diff) #Sign of the difference
+            #print diff, sign*(2*diff**2+7+(-1)**diff)/8
             total+=sign*(2*diff**2+7+(-1)**diff)/8 #The formula
         return total
 
@@ -87,6 +88,18 @@ if __name__ == "__main__":
     print test_stats.default_stats()
     print test_stats.roll_three()
     print test_stats.roll_four_drop_lowest()
+    arr2 = test_stats.roll_four_drop_lowest()
+    print arr2
+    print test_stats.pb_value(arr2)
+    arr2 = test_stats.roll_four_drop_lowest()
+    print arr2
+    print test_stats.pb_value(arr2)
+    arr2 = test_stats.roll_four_drop_lowest()
+    print arr2
+    print test_stats.pb_value(arr2)
+    arr2 = test_stats.roll_four_drop_lowest()
+    print arr2
+    print test_stats.pb_value(arr2)
     arr2 = test_stats.roll_four_drop_lowest()
     print arr2
     print test_stats.pb_value(arr2)
