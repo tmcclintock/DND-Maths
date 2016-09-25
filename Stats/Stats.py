@@ -76,11 +76,16 @@ class Stats(object):
         for stat in stat_array:
             diff = stat-10 #Difference between the stat and 10
             if diff == 0:
-                sign = 0
+                sign = part = 0
+                #continue
             else:
                 sign = diff/math.fabs(diff) #Sign of the difference
-            #print diff, sign*(2*diff**2+7+(-1)**diff)/8
-            total+=sign*(2*diff**2+7+(-1)**diff)/8 #The formula
+            if sign > 0:
+                part=int((2*diff**2+7+(-1)**diff)/8) #The formula
+            elif sign < 0:
+                part=int(-(2*(diff-1)**2+7+(-1)**(diff-1))/8+1) #The formula
+            total+=part
+            #print stat, diff, part, total
         return total
 
 if __name__ == "__main__":
@@ -103,3 +108,5 @@ if __name__ == "__main__":
     arr2 = test_stats.roll_four_drop_lowest()
     print arr2
     print test_stats.pb_value(arr2)
+    import numpy as np
+    print test_stats.pb_value(np.arange(3,19,1))
