@@ -6,23 +6,41 @@ TODO:
 1. 
 """
 
-import random
 import sys #For the unit test
 sys.path.insert(0,"../Stats/")
 import Stats
+import Weapons
 
 class Random_Fighter(object):
-    def __init__(self,level,name="",race="human",debug=False,seed=117401009):
+    def __init__(self,level,name="",race="Human",debug=False,seed=117401009):
+        self.debug = debug
+        self.seed = seed
         self.name = name
         self.level = level
         self.race = "human"
         self.raw_stats = Stats.Stats(debug,seed)
+        self.attributes_set = False
         return
 
     def __str__(self):
-        return "%s \n\tLevel:%d"%(self.name,self.level)
+        outstr = "%s:\tLevel %d %s Fighter\n"%(self.name,self.level,self.race)
+        if self.attributes_set:
+            outstr+= "Stats:\n"
+            outstr+="\tstr %d\n"%self.stats['str']
+            outstr+="\tdex %d\n"%self.stats['dex']
+            outstr+="\tcon %d\n"%self.stats['con']
+            outstr+="\tint %d\n"%self.stats['int']
+            outstr+="\twis %d\n"%self.stats['wis']
+            outstr+="\tcha %d\n"%self.stats['cha']
+            outstr+="\nSaves:"
+            outstr+="\tfort %d\n"%self.saves['fort']
+            outstr+="\tref %2d\n"%self.saves['ref']
+            outstr+="\twill %d\n"%self.saves['will']
+            outstr+="\n"+str(self.weapon)+"\n"
+        return outstr
 
     def set_attributes(self):
+        self.attributes_set = True
         self.bab = self.level
         self.number_of_feats = self.level+1
         self.roll_stats()
@@ -34,6 +52,8 @@ class Random_Fighter(object):
         self.bravery = (self.level+2)/4
         self.armor_training = (self.level+1)/4
         self.weapon_training = (self.level-1)/4
+        self.weapon = Weapons.Random_Weapon(self.debug,self.seed)
+        self.weapon.generate_weapon()
         return
 
     def calculate_saves(self):
@@ -56,8 +76,6 @@ class Random_Fighter(object):
 
 #A unit test
 if __name__ == '__main__':
-    rftest = Random_Fighter(level=3,name="Random Fighter Bro")
-    print rftest
+    rftest = Random_Fighter(level=3,name="RFBro")
     rftest.set_attributes()
-    print rftest.stats
-    print rftest.saves
+    print rftest
