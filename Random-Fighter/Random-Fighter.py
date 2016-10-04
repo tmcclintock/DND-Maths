@@ -8,8 +8,7 @@ TODO:
 
 import sys #For the unit test
 sys.path.insert(0,"../Stats/")
-import Stats
-import Weapons
+import Stats, Weapons, Feats
 
 class Random_Fighter(object):
     def __init__(self,level,name="",race="Human",debug=False,seed=117401009):
@@ -37,6 +36,7 @@ class Random_Fighter(object):
             outstr+="\tref %2d\n"%self.saves['ref']
             outstr+="\twill %d\n"%self.saves['will']
             outstr+="\n"+str(self.weapon)+"\n"
+            outstr+="\nFeats:\n"+str(self.feats)+"\n"
         return outstr
 
     def set_attributes(self):
@@ -54,6 +54,8 @@ class Random_Fighter(object):
         self.weapon_training = (self.level-1)/4
         self.weapon = Weapons.Random_Weapon(self.debug,self.seed)
         self.weapon.generate_weapon()
+        self.feats = Feats.Random_Feats(self.number_of_feats,self.debug,self.seed)
+        self.feats.generate_feat_list()
         return
 
     def calculate_saves(self):
@@ -76,6 +78,6 @@ class Random_Fighter(object):
 
 #A unit test
 if __name__ == '__main__':
-    rftest = Random_Fighter(level=3,name="RFBro")
+    rftest = Random_Fighter(level=3,name="Mr. McRandom")
     rftest.set_attributes()
     print rftest
