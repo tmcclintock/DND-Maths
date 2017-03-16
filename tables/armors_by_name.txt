@@ -1,0 +1,121 @@
+Adamantine Breastplate	10200	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/adamantine-breastplate/
+Advocate's Armor	33160	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/advocate-s-armor/
+Alchemist's Suit	30250	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/alchemist-s-suit/
+All Seeing Armor	5570	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/all-seeing-armor/
+Arachnid Harness	6160	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/arachnid-harness/
+Arboreal Armor	18670	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/arboreal-armor/
+Armiger's Armor	22500	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/armiger-s-armor/
+Armor Of Fragmenting Stone	21650	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/armor-of-fragmenting-stone/
+Armor Of Insults	16175	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/armor-of-insults/
+Armor Of The Pure Legion	18300	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/armor-of-the-pure-legion/
+Armor Of The Sands	14160	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/armor-of-the-sands/
+Armor Of The Unquenchable Fire	4840	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/armor-of-the-unquenchable-fire/
+Backbreaker Mail	17650	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/backbreaker-mail/
+Banded Mail Of Luck	18900	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/banded-mail-of-luck/
+Blackfingers Apron	5240	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/blackfingers-apron/
+Boneless Leather	12160	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/boneless-leather/
+Breastplate Of Command	25400	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/breastplate-of-command/
+Breastplate Of Vanishing	15200	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/breastplate-of-vanishing/
+Buccaneer's Breastplate	23850	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/buccaneer-s-breastplate/
+Catskin Leather	18910	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/catskin-leather/
+Celestial Armor	22400	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/celestial-armor/
+Celestial Plate Armor	25000	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/celestial-plate-armor/
+Chain Vest Of Dawn	6950	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/chain-vest-of-dawn/
+Clockwork Armor	33350	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/clockwork-armor/
+Crag Linnorm Plate	41300	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/crag-linnorm-plate/
+Daystar Half Plate	81250	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/daystar-half-plate/
+Death's Preservation Banded Mail	22400	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/death-s-preservation-banded-mail/
+Demon Armor	52260	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/demon-armor/
+Diviner's Blight	31160	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/diviner-s-blight/
+Djezet Skin	3410	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/djezet-skin/
+Armor Dragonform	24120	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/armor-dragonform/
+Dragonhide Plate	3300	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/dragonhide-plate/
+Dueling Armor	24200	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/dueling-armor/
+Dwarven Plate	16500	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/dwarven-plate/
+Elemental Bulwark	12300	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/elemental-bulwark/
+Elven Chain	5150	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/elven-chain/
+Empyreal Armor	100050	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/empyreal-armor/
+Enchanted Eelskin	11160	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/enchanted-eelskin/
+Equestrian Plate	10650	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/equestrian-plate/
+Eternal Iron Breastplate	4890	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/eternal-iron-breastplate/
+Fangtide Scale Mail	4890	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/fangtide-scale-mail/
+Field Medic's Breastplate	52900	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/field-medic-s-breastplate/
+Flashguard Plate	16350	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/flashguard-plate/
+Folding Plate	12650	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/folding-plate/
+Forgemaster's Half Plate	4180	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/forgemaster-s-half-plate/
+Forsaken Banded Mail	25400	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/forsaken-banded-mail/
+Full Plate Of The Corpse	35650	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/full-plate-of-the-corpse/
+Gale Armor	15180	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/gale-armor/
+Gelugon Armor	117650	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/gelugon-armor/
+Gelugon Plate	60950	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/gelugon-plate/
+Ghoul Hide	2865	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/ghoul-hide/
+Giant Hide Armor	900000000000000	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/giant-hide-armor/
+Gloom Mail	2380	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/gloom-mail/
+Gossamer Shrouds Of The Clairvoyant	20150	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/gossamer-shrouds-of-the-clairvoyant/
+Gravewatcher Chainmail	5380	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/gravewatcher-chainmail/
+Gray Master's Leathers	5720	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/gray-master-s-leathers/
+Half Plate Of The Dark Prince	3910	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/half-plate-of-the-dark-prince/
+Hamatula Hide	44215	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/hamatula-hide/
+Abrogalian Corset	17175	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/abrogalian-corset/
+Hero's Hauberk	16600	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/hero-s-hauberk/
+Hunter's Leather	5425	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/hunter-s-leather/
+Infiltrator's Mail	19650	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/infiltrator-s-mail/
+Inheritor's Breastplate	2430	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/inheritor-s-breastplate/
+Invincible Armor	137650	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/invincible-armor/
+Judge's Breastplate	5110	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/judge-s-breastplate/
+Jungle Armor	3900	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/jungle-armor/
+Legion Armor	13400	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/legion-armor/
+Lifecollar Coat	18200	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/lifecollar-coat/
+Luck Mail Greater	4840	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/luck-mail-greater/
+Calamitous Mail	3750	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/calamitous-mail/
+Mail Of Malevolence	61300	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/mail-of-malevolence/
+Mammoth Hide	11665	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/mammoth-hide/
+Mammoth Hide 1	8165	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/mammoth-hide-1/
+Man Mountain Armor	32350	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/man-mountain-armor/
+Mistmail	2250	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/mistmail/
+Mithral Full Plate Of Speed	26500	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/mithral-full-plate-of-speed/
+Mithral Shirt	1100	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/mithral-shirt/
+Morlock Hide	8910	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/morlock-hide/
+Mosswater Stained Leather	11575	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/mosswater-stained-leather/
+Murderer's Blackcloth	12405	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/murderer-s-blackcloth/
+Otyugh Hide	2565	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/otyugh-hide/
+Painspike Armor	4145	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/painspike-armor/
+Pallid Chain	3300	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/pallid-chain/
+Pelt Of The Demon Mother	3325	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/pelt-of-the-demon-mother/
+Perfection Leather	3860	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/perfection-leather/
+Phoenix Armor	36130	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/phoenix-armor/
+Plate Armor Of The Deep	24650	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/plate-armor-of-the-deep/
+Prismatic Plate	160650	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/prismatic-plate/
+Rageskin Lupine	12160	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/rageskin-lupine/
+Rageskin Ursine	20165	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/rageskin-ursine/
+Raiment Of The Shining Crusade	20750	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/raiment-of-the-shining-crusade/
+Red Stalker Armor	3035	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/red-stalker-armor/
+Rhino Hide	5165	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/rhino-hide/
+Rosy Hauberk	3035	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/rosy-hauberk/
+Scarab Breastplate	32350	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/scarab-breastplate/
+Scouting Leather	8750	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/scouting-leather/
+Sea Banshee Coat	3605	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/sea-banshee-coat/
+Sea Coat	2300	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/sea-coat/
+Shifting Jerkin	5965	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/shifting-jerkin/
+Skullduster	104508	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/skullduster/
+Sky Knight Dress Uniform	10800	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/sky-knight-dress-uniform/
+Snailplate	36000	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/snailplate/
+Snakescale Armor	8900	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/snakescale-armor/
+Soothsayer's Raiment	10300	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/soothsayer-s-raiment/
+Stalking Armor	8575	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/stalking-armor/
+Starfaring Robes	82000	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/starfaring-robes/
+Starsong Mail	3460	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/starsong-mail/
+Stone Eater Armor	8950	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/stone-eater-armor/
+Tiger's Hide	54115	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/tiger-s-hide/
+Tireless Tracking Hide	11165	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/tireless-tracking-hide/
+Toiler's Armor	3920	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/toiler-s-armor/
+Trained Barding	8350	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/trained-barding/
+Tunnel Defender Stoneplate	26700	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/tunnel-defender-stoneplate/
+Veiled Chain	4490	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/veiled-chain/
+War Commander's Field Plate	21600	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/war-commander-s-field-plate/
+Warden Of The Woods	29350	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/warden-of-the-woods/
+Waverider Breastplate	5000	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/waverider-breastplate/
+Wizard's Mail	52100	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/wizard-s-mail/
+Workman's Armor	2780	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/workman-s-armor/
+Writhing Armor	9480	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/writhing-armor/
+Xill Carapace Armor	83050	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/xill-carapace-armor/
