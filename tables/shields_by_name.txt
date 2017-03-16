@@ -2,7 +2,7 @@ Absorbing Shield	50170	http://www.d20pfsrd.com/magic-items/magic-armor/specific-
 Avalanche Shield	19170	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/avalanche-shield/
 Battlement Shield	16180	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/battlement-shield/
 Belligerent Shield	36170	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/belligerent-shield/
-Bloodfeast Shield	900000000000000	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/bloodfeast-shield/
+Bloodfeast Shield	18770	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/bloodfeast-shield/
 Broadside Bulwark	19007	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/broadside-bulwark/
 Bronze Whisperer's Shield	4279	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/bronze-whisperer-s-shield/
 Burglar's Buckler	4655	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/burglar-s-buckler/

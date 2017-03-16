@@ -26,6 +26,7 @@ Battlement Shield	16180	http://www.d20pfsrd.com/magic-items/magic-armor/specific
 Guard Of Man	17180	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/guard-of-man/
 Winged Shield	17257	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/winged-shield/
 Shield Of The Mazeborn	18170	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/shield-of-the-mazeborn/
+Bloodfeast Shield	18770	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/bloodfeast-shield/
 Broadside Bulwark	19007	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/broadside-bulwark/
 Avalanche Shield	19170	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/avalanche-shield/
 Fortress Shield	19180	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/fortress-shield/
@@ -45,4 +46,3 @@ Absorbing Shield	50170	http://www.d20pfsrd.com/magic-items/magic-armor/specific-
 Elysian Shield	52620	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/elysian-shield/
 Spellbane Shield	79180	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/spellbane-shield/
 Equalizer Shield	120830	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/equalizer-shield/
-Bloodfeast Shield	900000000000000	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/bloodfeast-shield/

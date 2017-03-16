@@ -38,8 +38,8 @@ bases = ["http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/"
 base_names = ["armor","shields","weapons"]
 for base_name,base in zip(base_names,bases):
     if base_name is "armor": continue
-    #if base_name is "shields": continue
-    if base_name is "weapons": continue 
+    if base_name is "shields": continue
+    #if base_name is "weapons": continue 
     r = requests.get(base)
     data = r.text
     soup = bs(data,'lxml')
@@ -56,39 +56,43 @@ for base_name,base in zip(base_names,bases):
                 specific_items.append(item(string.capwords(name),url=url))
                 #xprint specific_items[-1]
 
-    print "Now working with %s"base_name
+    print "Now working with %s"%base_name
     print "Working with %d items"%len(specific_items)
 
     #Loop through the specific_items and get the prices, and keep track of any failed items
     for i,specific_item in zip(range(len(specific_items)),specific_items):
+        #if i<25 or i>27: continue
         soup = bs(requests.get(specific_item.url).text,'lxml')
+        text = soup.body.text
+        ind = text.find("Price")
+        stext = text[ind:ind+19]
+        stext = re.sub(",","",stext).encode('utf-8')
+        regex = re.compile(ur"\d+")
         try:
-            gpstr = soup.body.find(string="Price").findParent().nextSibling.encode('utf-8')
-        except Exception: #Due to bad html formatting we couldn't find the price
-            print "Unable to find the price for: %s at index:%d"%(specific_item,i)
-            specific_item.price = 9e14 #Huge number
-            continue
-        gpstr = gpstr.replace(',','')
-        gpstr = gpstr.replace(' gp','')
-        gpstr = re.sub("[^0-9]", "",gpstr)
-        try: #Something crazy happened
-            specific_item.price = int(gpstr)
-            if specific_item.price <10:
-                print "Strange format for: \'%s\' \tindex:%d\t%s:%s'"%(gpstr,i,base_name,specific_item.name)
-                specific_item.price=9e14
+            pricestr = regex.findall(stext)
         except Exception:
-            print "Strange format for: \'%s\' \tindex:%d\t%s:%s'"%(gpstr,i,base_name,specific_item.name)
-            specific_item.price = 9e14 #Huge number
+            print "Cannot run the regex: ",stext,i
+            specific_item.price = 9e14
             continue
+        if not pricestr:
+            print "Price not found correctly here: ",stext,i
+            specific_item.price = 9e14
+            continue
+        price = int(re.sub("[^0-9]", "", pricestr[0].encode('utf-8')))
+        if price < 10:
+            print "Price found to be too small:",stext,i
+            specific_item.price = 9e14
+            continue
+        specific_item.price = price
 
-        #Write to file
-        outfile = open("%s_by_name.txt"%base_name,"w")
-        for specific_item in specific_items:
-            outfile.write("%s\n"%specific_item)
-        outfile.close()
+    #Write to file
+    outfile = open("%s_by_name.txt"%base_name,"w")
+    for specific_item in specific_items:
+        outfile.write("%s\n"%specific_item)
+    outfile.close()
 
-        sorted_specific_items = sorted(specific_items)
-        outfile = open("%s_by_cost.txt"%base_name,"w")
-        for i,specific_item in zip(range(len(specific_items)),sorted_specific_items):
-            outfile.write("%s\n"%specific_item)
-        outfile.close()
+    sorted_specific_items = sorted(specific_items)
+    outfile = open("%s_by_cost.txt"%base_name,"w")
+    for i,specific_item in zip(range(len(specific_items)),sorted_specific_items):
+        outfile.write("%s\n"%specific_item)
+    outfile.close()

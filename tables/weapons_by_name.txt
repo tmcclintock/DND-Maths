@@ -26,7 +26,7 @@ Boulder Bullet	900000000000000	http://www.d20pfsrd.com/magic-items/magic-weapons
 Boulderhead Mace	6812	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/boulderhead-mace/
 Bow Of Ashes	11400	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/bow-of-ashes/
 Brine's Sting	10320	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/brine-s-sting/
-Burrowing Bullet	17223447	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/burrowing-bullet/
+Burrowing Bullet	900000000000000	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/burrowing-bullet/
 Caustic Safeguard	900000000000000	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/caustic-safeguard/
 Cavalryman's Bow	10330	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/cavalryman-s-bow/
 Censuring Placard	14300	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/censuring-placard/
@@ -102,7 +102,7 @@ Hooked Massacre	22325	http://www.d20pfsrd.com/magic-items/magic-weapons/specific
 Horseshoes Of Sacred Silver	20000	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/horseshoes-of-sacred-silver/
 Hunter's Starknife	36324	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/hunter-s-starknife/
 Hurricane Quarterstaff	7840	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/hurricane-quarterstaff/
-Hushing Arrow	5471047	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/hushing-arrow/
+Hushing Arrow	547	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/hushing-arrow/
 Impaler Of Thorns	9000	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/impaler-of-thorns/
 Irradiating Tail	5315	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/irradiating-tail/
 Javelin Of Lightning	1500	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/javelin-of-lightning/
@@ -114,15 +114,15 @@ Lady's Spiral	24621	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-m
 Lance Of Jousting	4310	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/lance-of-jousting/
 Lash Of The Howler	18305	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/lash-of-the-howler/
 Launcher Of Distraction	10550	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/launcher-of-distraction/
-Legbreaker	2	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/legbreaker/
+Legbreaker	900000000000000	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/legbreaker/
 Life Drinker	40320	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/life-drinker/
 Lizardmarked Blade	15715	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/lizardmarked-blade/
 Longsword Cold Iron Masterwork	330	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/longsword-cold-iron-masterwork/
-Luck Blade	0	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/luck-blade/
+Luck Blade	900000000000000	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/luck-blade/
 Mace Of Keys	50312	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/mace-of-keys/
-Mace Of Smiting	7531216012	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/mace-of-smiting/
+Mace Of Smiting	900000000000000	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/mace-of-smiting/
 Mace Of Terror	38552	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/mace-of-terror/
-Machete Of Clearing	555011550	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/machete-of-clearing/
+Machete Of Clearing	5550	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/machete-of-clearing/
 Mage's Crossbow	18335	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/mage-s-crossbow/
 Manchiller	18395	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/manchiller/
 Marrowcracker	28312	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/marrowcracker/
@@ -188,7 +188,7 @@ Sizzling Arrow	1516	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-m
 Skulking Sniper's Blowgun	62302	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/skulking-sniper-s-blowgun/
 Skyrocket Crossbow	10400	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/skyrocket-crossbow/
 Slaver's Cane	25305	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/slaver-s-cane/
-Slaying Arrow	22824057	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/slaying-arrow/
+Slaying Arrow	900000000000000	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/slaying-arrow/
 Sleep Arrow	132	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/sleep-arrow/
 Smuggler's Sling	5300	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/smuggler-s-sling/
 Eroeme Intelligent Monstrous Humanoid Bane Greatsword	180350	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/eroeme-intelligent-monstrous-humanoid-bane-greatsword/
