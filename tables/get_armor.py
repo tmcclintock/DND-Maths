@@ -22,6 +22,9 @@ class item(object):
     def __str__(self):
         return "%s\t%d\t%s"%(self.name,self.cost,self.url)
 
+    def __cmp__(self,y):
+        return cmp(self.cost,y.cost)
+
 def get_name(text):
     """Given the name in the URL with hyphens and stuff get the real name.
     """
