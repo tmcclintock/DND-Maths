@@ -1,0 +1,1 @@
+This small project is to create text tables of the specific weapons and armor found on the SRD but sorted by price rather than alphabetically, which is useless.
