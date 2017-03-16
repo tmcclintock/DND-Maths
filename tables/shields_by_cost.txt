@@ -1,0 +1,48 @@
+Living Steel Heavy Shield	120	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/living-steel-heavy-shield/
+Darkwood Buckler	203	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/darkwood-buckler/
+Darkwood Shield	257	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/darkwood-shield/
+Mithral Heavy Shield	1020	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/mithral-heavy-shield/
+Zombie Skin Shield	2159	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/zombie-skin-shield/
+Driftwood Shield	2527	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/driftwood-shield/
+Caster's Shield	3153	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/caster-s-shield/
+Bronze Whisperer's Shield	4279	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/bronze-whisperer-s-shield/
+Burglar's Buckler	4655	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/burglar-s-buckler/
+Challenging Shield	5170	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/challenging-shield/
+Spined Shield	5580	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/spined-shield/
+Slaver's Madu	5590	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/slaver-s-madu/
+Lockpick Shield	7159	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/lockpick-shield/
+Dragonslayer's Shield	7170	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/dragonslayer-s-shield/
+Shield Of Sunrise	7659	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/shield-of-sunrise/
+Shield Of Covered Retreat	8157	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/shield-of-covered-retreat/
+Collapsible Tower	8170	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/collapsible-tower/
+Lion's Shield	9170	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/lion-s-shield/
+Gunner's Buckler	10155	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/gunner-s-buckler/
+Celestial Shield	13170	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/celestial-shield/
+Phalanx Shield	14080	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/phalanx-shield/
+Maelstrom Shield	14170	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/maelstrom-shield/
+Volcanic Shield	14170	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/volcanic-shield/
+Tempest Shield	15170	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/tempest-shield/
+Battlement Shield	16180	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/battlement-shield/
+Guard Of Man	17180	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/guard-of-man/
+Winged Shield	17257	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/winged-shield/
+Shield Of The Mazeborn	18170	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/shield-of-the-mazeborn/
+Broadside Bulwark	19007	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/broadside-bulwark/
+Avalanche Shield	19170	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/avalanche-shield/
+Fortress Shield	19180	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/fortress-shield/
+Spirit Shield	19393	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/spirit-shield/
+Lion Skull Klar	19912	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/lion-skull-klar/
+Wyrmslayer's Shield	20170	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/wyrmslayer-s-shield/
+Shield Of Hags	20273	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/shield-of-hags/
+Howling Skull Armor	20375	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/howling-skull-armor/
+Elephant Shield	21340	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/elephant-shield/
+Spell Ward Tower Shield	25180	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/spell-ward-tower-shield/
+Icon Of Order	26170	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/icon-of-order/
+Lens Of The Void	29170	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/lens-of-the-void/
+Quick Block Buckler	36155	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/quick-block-buckler/
+Belligerent Shield	36170	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/belligerent-shield/
+Force Tower	46030	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/force-tower/
+Absorbing Shield	50170	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/absorbing-shield/
+Elysian Shield	52620	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/elysian-shield/
+Spellbane Shield	79180	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/spellbane-shield/
+Equalizer Shield	120830	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/equalizer-shield/
+Bloodfeast Shield	900000000000000	http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/bloodfeast-shield/

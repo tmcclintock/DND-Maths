@@ -1,0 +1,252 @@
+Luck Blade	0	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/luck-blade/
+Legbreaker	2	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/legbreaker/
+Tracer Bullet	100	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/tracer-bullet/
+Sleep Arrow	132	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/sleep-arrow/
+Dwindling Bullet	166	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/dwindling-bullet/
+Dustburst Bullet	196	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/dustburst-bullet/
+Dart Of Recovery	206	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/dart-of-recovery/
+Tangle Bolt	226	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/tangle-bolt/
+Screaming Bolt	267	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/screaming-bolt/
+Grave Marker Arrow	307	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/grave-marker-arrow/
+Silver Dagger Masterwork	322	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/silver-dagger-masterwork/
+Alchemist's Bullet	330	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/alchemist-s-bullet/
+Longsword Cold Iron Masterwork	330	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/longsword-cold-iron-masterwork/
+Splitting Bolt	346	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/splitting-bolt/
+Dizzying Bullet	496	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/dizzying-bullet/
+Vulnerability Bolt	496	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/vulnerability-bolt/
+Mute Dart	566	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/mute-dart/
+Reporting Cartridge	566	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/reporting-cartridge/
+Scouting Cartridge	566	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/scouting-cartridge/
+Prying Star	646	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/prying-star/
+Phase Arrow	916	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/phase-arrow/
+Sunlord's Feather	1100	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/sunlord-s-feather/
+Venomous Whisper Dart	1466	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/venomous-whisper-dart/
+Javelin Of Lightning	1500	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/javelin-of-lightning/
+Searing Arrow	1516	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/searing-arrow/
+Sizzling Arrow	1516	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/sizzling-arrow/
+Dust Bolt	1730	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/dust-bolt/
+Effortless Lace	2500	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/effortless-lace/
+Arrow Of Charming	2886	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/arrow-of-charming/
+Dagger Adamantine	3002	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/dagger-adamantine/
+Battleaxe Adamantine	3010	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/battleaxe-adamantine/
+Fiend's Relief	3305	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/fiend-s-relief/
+Tidewater Cutlass	3395	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/tidewater-cutlass/
+Grasping Bolas	3805	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/grasping-bolas/
+Boarding Pike Of Repelling	4308	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/boarding-pike-of-repelling/
+Lance Of Jousting	4310	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/lance-of-jousting/
+Wizard Hook	4310	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/wizard-hook/
+Shatterspike	4315	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/shatterspike/
+Grafting Blade	4370	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/grafting-blade/
+Secret Crossbow	4400	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/secret-crossbow/
+Stirge Dart	4501	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/stirge-dart/
+Biting Bracelet	5000	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/biting-bracelet/
+Nimble Whip	5005	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/nimble-whip/
+Judicial Hammer	5220	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/judicial-hammer/
+Smuggler's Sling	5300	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/smuggler-s-sling/
+Runechill Hatchet 1	5312	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/runechill-hatchet-1/
+Irradiating Tail	5315	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/irradiating-tail/
+Bloatstrike Tail	5901	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/bloatstrike-tail/
+Whispering Shrike	5940	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/whispering-shrike/
+Raiment Of Chains	6250	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/raiment-of-chains/
+Bloodletting Kukri	6308	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/bloodletting-kukri/
+Everbloom Thorn	6320	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/everbloom-thorn/
+Boulderhead Mace	6812	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/boulderhead-mace/
+Traitorous Blaster	7050	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/traitorous-blaster/
+Beaststrike Club	7300	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/beaststrike-club/
+Sacrificial Dagger	7302	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/sacrificial-dagger/
+Fighter's Fork	7315	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/fighter-s-fork/
+Swashbuckler's Rapier	7320	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/swashbuckler-s-rapier/
+Beast Wrestler's Gauntlets	7500	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/beast-wrestler-s-gauntlets/
+Everflowing Aspergillum	7805	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/everflowing-aspergillum/
+Wanderer's Scarf	7812	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/wanderer-s-scarf/
+Hurricane Quarterstaff	7840	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/hurricane-quarterstaff/
+Assassin's Blade	8302	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/assassin-s-blade/
+Dagger Of Venom	8302	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/dagger-of-venom/
+Shearing Sword	8350	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/shearing-sword/
+Stirge Lancet	8500	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/stirge-lancet/
+Gloom Blade	8810	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/gloom-blade/
+Impaler Of Thorns	9000	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/impaler-of-thorns/
+Fist Of The Pit	9305	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/fist-of-the-pit/
+Final Word	9308	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/final-word/
+Frostbite Sling	9380	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/frostbite-sling/
+Glaive Guisarme Of The Vanguard	9512	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/glaive-guisarme-of-the-vanguard/
+Snakebite Dagger	9760	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/snakebite-dagger/
+Shrivelblade	9810	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/shrivelblade/
+Trident Of Stability	9815	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/trident-of-stability/
+Master's Woe Stiletto	10002	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/master-s-woe-stiletto/
+Trident Of Warning	10115	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/trident-of-warning/
+Fighting Tankard	10301	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/fighting-tankard/
+Assassin's Dagger	10302	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/assassin-s-dagger/
+Dagger Of Doubling	10302	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/dagger-of-doubling/
+Lacerating Rapier	10302	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/lacerating-rapier/
+Serpent's Fang	10302	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/serpent-s-fang/
+Courtesan's Ire	10305	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/courtesan-s-ire/
+Rending Claw Blade	10305	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/rending-claw-blade/
+Signifer's Fist	10305	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/signifer-s-fist/
+Vindictive Harpoon	10305	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/vindictive-harpoon/
+War Lance	10310	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/war-lance/
+Brine's Sting	10320	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/brine-s-sting/
+Grudge Blade	10320	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/grudge-blade/
+Cavalryman's Bow	10330	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/cavalryman-s-bow/
+Skyrocket Crossbow	10400	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/skyrocket-crossbow/
+Onyx Spear	10453	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/onyx-spear/
+Pistol Loudshot	10530	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/pistol-loudshot/
+Launcher Of Distraction	10550	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/launcher-of-distraction/
+Heartripper Blade	11302	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/heartripper-blade/
+Earthenflail	11315	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/earthenflail/
+Swift Obsidian Greataxe	11320	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/swift-obsidian-greataxe/
+Axe Of Felling	11330	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/axe-of-felling/
+Bow Of Ashes	11400	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/bow-of-ashes/
+Trailblazer's Spade	11400	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/trailblazer-s-spade/
+Anvengen's Edge	11508	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/anvengen-s-edge/
+Peacekeeping Pistol	11700	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/peacekeeping-pistol/
+Triple Stinging Blade	11702	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/triple-stinging-blade/
+Tamer's Whip	11901	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/tamer-s-whip/
+Constrictor's Gauntlets	12302	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/constrictor-s-gauntlets/
+Polarity Hammer	12310	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/polarity-hammer/
+Blade Of Binding 1	12350	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/blade-of-binding-1/
+Dancing Wasp	12392	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/dancing-wasp/
+Shadowcraft Weapon	12500	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/shadowcraft-weapon/
+Nightpiercer	12700	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/nightpiercer/
+Shifter's Sorrow	12780	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/shifter-s-sorrow/
+Deck Of Slivering Fate	13000	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/deck-of-slivering-fate/
+Dragoncatch Guisarme	13308	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/dragoncatch-guisarme/
+Spirit Bolas	13715	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/spirit-bolas/
+Greenblood Scourge	13801	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/greenblood-scourge/
+Headsman's Blade	13850	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/headsman-s-blade/
+Censuring Placard	14300	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/censuring-placard/
+Ten Ring Sword	14315	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/ten-ring-sword/
+Eagle's Blade	14350	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/eagle-s-blade/
+Dagger Of Repossession	14702	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/dagger-of-repossession/
+Triton's Trident	15065	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/triton-s-trident/
+Spear Of The Honored Ancestors	15302	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/spear-of-the-honored-ancestors/
+Closing Offer	15310	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/closing-offer/
+Lizardmarked Blade	15715	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/lizardmarked-blade/
+Hero's Blade	17315	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/hero-s-blade/
+Disarming Blade	17820	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/disarming-blade/
+Sacrificial Sword	18235	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/sacrificial-sword/
+Hangman's Noose	18301	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/hangman-s-noose/
+Arachnid's Fang	18302	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/arachnid-s-fang/
+Lash Of The Howler	18305	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/lash-of-the-howler/
+Doppelganger's Sword	18310	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/doppelganger-s-sword/
+Shieldsplitter Lance	18310	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/shieldsplitter-lance/
+Mage's Crossbow	18335	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/mage-s-crossbow/
+Manchiller	18395	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/manchiller/
+Fleshwarped Scorpion's Tail	18505	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/fleshwarped-scorpion-s-tail/
+Trident Of Fish Command	18650	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/trident-of-fish-command/
+Steadfast Urumi	18830	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/steadfast-urumi/
+Quarterstaff Of Vaulting	19100	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/quarterstaff-of-vaulting/
+Purging Falcata	19318	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/purging-falcata/
+Shadowbound Chains	19725	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/shadowbound-chains/
+Horseshoes Of Sacred Silver	20000	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/horseshoes-of-sacred-silver/
+Shieldmarshal's Pistol	20050	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/shieldmarshal-s-pistol/
+Firedrake Pistol	20300	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/firedrake-pistol/
+Ricochet Hammer	20301	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/ricochet-hammer/
+Valorous Blade	20315	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/valorous-blade/
+Hellcaller's Edge	20350	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/hellcaller-s-edge/
+Flame Tongue	20715	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/flame-tongue/
+Sparkwake Starknife	21324	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/sparkwake-starknife/
+Starknife Of The Void	21324	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/starknife-of-the-void/
+Duel Master's Edge	21820	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/duel-master-s-edge/
+Sadist's Lash	22301	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/sadist-s-lash/
+Rabbit's Blade	22307	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/rabbit-s-blade/
+Sword Of Subtlety	22310	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/sword-of-subtlety/
+Sword Of The Planes	22315	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/sword-of-the-planes/
+Hooked Massacre	22325	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/hooked-massacre/
+Fanged Falchion	22375	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/fanged-falchion/
+Knight Captain's Lance	22710	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/knight-captain-s-lance/
+Nine Lives Stealer	23057	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/nine-lives-stealer/
+Bloodstone Impaler	23302	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/bloodstone-impaler/
+Undercutting Axe	23310	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/undercutting-axe/
+Sword Of Tempests	23315	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/sword-of-tempests/
+Risen Blade	23320	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/risen-blade/
+Monastic Warden	23530	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/monastic-warden/
+Lady's Spiral	24621	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/lady-s-spiral/
+Spirit Caller	25302	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/spirit-caller/
+Maul Of The Titans	25305	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/maul-of-the-titans/
+Slaver's Cane	25305	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/slaver-s-cane/
+Dwarfbond Hammer	25312	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/dwarfbond-hammer/
+Screaming Blade	25315	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/screaming-blade/
+Oathbow	25600	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/oathbow/
+Frozen Crossbow	25700	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/frozen-crossbow/
+Sword Of Life Stealing	25715	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/sword-of-life-stealing/
+Wasp's Kiss	26380	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/wasp-s-kiss/
+Shatterstone Hammer	26712	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/shatterstone-hammer/
+Marrowcracker	28312	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/marrowcracker/
+Vaultbow	28550	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/vaultbow/
+Tenacious Atlatl Dart	29101	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/tenacious-atlatl-dart/
+Rapier Of Battlefield Movement	30320	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/rapier-of-battlefield-movement/
+Starbow	30400	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/starbow/
+Oaken Staff	31800	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/oaken-staff/
+Dragon's Tail	32310	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/dragon-s-tail/
+Sword Of Vengeance	32350	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/sword-of-vengeance/
+Murderer's Machete	32870	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/murderer-s-machete/
+Cutthroat's Apprentice	33910	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/cutthroat-s-apprentice/
+Quarterstaff Of Contemplation	34800	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/quarterstaff-of-contemplation/
+Withershot	34800	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/withershot/
+Ghoul's Lament	35312	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/ghoul-s-lament/
+Duelist's Comate	35320	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/duelist-s-comate/
+Mind's Eye Blade	36302	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/mind-s-eye-blade/
+Channeler's Aspergillum	36305	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/channeler-s-aspergillum/
+Avalanche Sling Staff	36320	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/avalanche-sling-staff/
+Hunter's Starknife	36324	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/hunter-s-starknife/
+Seraphic Pistol	37550	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/seraphic-pistol/
+Silent Sentry Crossbow	38335	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/silent-sentry-crossbow/
+Mace Of Terror	38552	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/mace-of-terror/
+Hellscourge	39305	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/hellscourge/
+Dragon's Doom	40310	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/dragon-s-doom/
+Life Drinker	40320	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/life-drinker/
+Valor's Minion	41335	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/valor-s-minion/
+Shade Bow	41535	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/shade-bow/
+Summoner's Sorrow	42816	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/summoner-s-sorrow/
+Axe Of Forced Life	45310	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/axe-of-forced-life/
+Crusader's Longsword	47315	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/crusader-s-longsword/
+Sylvan Scimitar	47315	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/sylvan-scimitar/
+Spirit Blade	48502	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/spirit-blade/
+Heartswood Spear	50302	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/heartswood-spear/
+Traitor's Blade	50302	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/traitor-s-blade/
+Mace Of Keys	50312	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/mace-of-keys/
+Rapier Of Puncturing	50320	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/rapier-of-puncturing/
+Sun Blade	50335	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/sun-blade/
+Blade Of The Rising Sun	51850	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/blade-of-the-rising-sun/
+Rotcarver	52118	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/rotcarver/
+Kyton Scourge	53000	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/kyton-scourge/
+Windreader's Bow	54400	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/windreader-s-bow/
+Frost Brand	54475	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/frost-brand/
+Snakebite	57320	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/snakebite/
+Thorn Bow	59700	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/thorn-bow/
+Hateful Sting	60302	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/hateful-sting/
+Dwarven Thrower	60312	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/dwarven-thrower/
+Bloodthirst Dagger	60802	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/bloodthirst-dagger/
+Earth Breaker Of Righted Injustice	61340	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/earth-breaker-of-righted-injustice/
+Warbringer	61375	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/warbringer/
+Skulking Sniper's Blowgun	62302	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/skulking-sniper-s-blowgun/
+Guarding Blade	65310	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/guarding-blade/
+Crimson Bluff	65575	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/crimson-bluff/
+Devil's Key	66750	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/devil-s-key/
+Talons Of Leng	67000	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/talons-of-leng/
+Pistol Of The Infinite Sky	73300	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/pistol-of-the-infinite-sky/
+Blade Of The Sword Saint	75350	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/blade-of-the-sword-saint/
+Scimitar Of The Spellthief	75815	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/scimitar-of-the-spellthief/
+Murderer's Machete Greater	78310	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/murderer-s-machete-greater/
+Spider's Fang	79102	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/spider-s-fang/
+Reaver's Scythe	80318	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/reaver-s-scythe/
+Shockwave Blunderbuss	87300	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/shockwave-blunderbuss/
+Rixbrand	90000	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/rixbrand/
+Boneshaking Cleaver	90320	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/boneshaking-cleaver/
+Demonsorrow Curve Blade	90469	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/demonsorrow-curve-blade/
+Dwarf Smasher	91712	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/dwarf-smasher/
+Void Scythe	95318	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/void-scythe/
+Trident Of The Storm Captain	109665	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/trident-of-the-storm-captain/
+Holy Avenger	120630	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/holy-avenger/
+Bastard's Sting	123035	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/bastard-s-sting/
+Eroeme Intelligent Monstrous Humanoid Bane Greatsword	180350	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/eroeme-intelligent-monstrous-humanoid-bane-greatsword/
+Arrow Splitter	180375	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/arrow-splitter/
+Hushing Arrow	5471047	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/hushing-arrow/
+Burrowing Bullet	17223447	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/burrowing-bullet/
+Slaying Arrow	22824057	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/slaying-arrow/
+Machete Of Clearing	555011550	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/machete-of-clearing/
+Mace Of Smiting	7531216012	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/mace-of-smiting/
+Boulder Bullet	900000000000000	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/boulder-bullet/
+Caustic Safeguard	900000000000000	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/caustic-safeguard/
+Deadflesh Waraxe	900000000000000	http://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/deadflesh-waraxe/
